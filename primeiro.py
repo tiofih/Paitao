@@ -1,5 +1,2 @@
-def soma(numeroUm, numeroDois):
-    print(2 + 2)
-
-
-soma(2, 2)
+def soma(x: float, y: float) -> float:
+    return(x + y)
